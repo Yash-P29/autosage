@@ -1,10 +1,6 @@
 # 🧠 AutoSage — Intelligent AutoML & Explainable AI
 
-**AutoSage** is a high-performance, automated machine learning (AutoML) platform designed to simplify the end-to-end machine learning workflow. From intelligent data profiling and automated preprocessing to model selection and deep explainability, AutoSage provides a premium, user-friendly interface for building robust predictive models.
-
-![AutoSage Hero](https://img.shields.io/badge/AutoML-Intelligent-blueviolet?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Built with Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+**AutoSage** is a high-performance, automated machine learning (AutoML) platform developed as an internship project for **Navodita Infotech**. It simplifies the end-to-end ML workflow, offering intelligent data profiling, automated preprocessing, model selection, and deep explainability via a premium interface.
 
 ---
 
