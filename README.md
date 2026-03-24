@@ -66,7 +66,3 @@ streamlit run app.py
 ## 🎨 Design Philosophy
 AutoSage follows a **Clean Dark Theme** aesthetic with vibrant gradients and glassmorphism elements, ensuring a premium user experience that feels alive and responsive.
 
----
-
-## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
